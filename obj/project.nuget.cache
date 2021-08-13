@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJDzat2eskgElzJV2/OX97HwWbysmKtBlPwsUo7thEQubPaLg7Y9riYmqWKpBbxiHe8jCqTOrRXZSCxZDuTA6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Александр\\source\\repos\\Сalculator\\Сalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Александр\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
