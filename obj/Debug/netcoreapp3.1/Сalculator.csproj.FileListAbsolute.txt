@@ -1,13 +1,12 @@
-C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.csprojAssemblyReference.cache
-C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.AssemblyInfoInputs.cache
-C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.AssemblyInfo.cs
-C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.csproj.CoreCompileInputs.cache
 C:\Users\Александр\source\repos\Сalculator\bin\Debug\netcoreapp3.1\Сalculator.exe
 C:\Users\Александр\source\repos\Сalculator\bin\Debug\netcoreapp3.1\Сalculator.deps.json
 C:\Users\Александр\source\repos\Сalculator\bin\Debug\netcoreapp3.1\Сalculator.runtimeconfig.json
 C:\Users\Александр\source\repos\Сalculator\bin\Debug\netcoreapp3.1\Сalculator.runtimeconfig.dev.json
 C:\Users\Александр\source\repos\Сalculator\bin\Debug\netcoreapp3.1\Сalculator.dll
 C:\Users\Александр\source\repos\Сalculator\bin\Debug\netcoreapp3.1\Сalculator.pdb
+C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.csproj.CoreCompileInputs.cache
 C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.dll
 C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.pdb
 C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.genruntimeconfig.cache
