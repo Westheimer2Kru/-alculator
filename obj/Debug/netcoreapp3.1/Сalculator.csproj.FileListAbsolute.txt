@@ -10,3 +10,4 @@ C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сa
 C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.dll
 C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.pdb
 C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.genruntimeconfig.cache
+C:\Users\Александр\source\repos\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.csprojAssemblyReference.cache
