@@ -19,7 +19,8 @@ namespace Сalculator
             {
                 Console.WriteLine(e);
             }
-            
+
+            Console.ReadLine();
         }
     }
 
